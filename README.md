@@ -8,6 +8,8 @@ que es una actualización oficial.
 La herramienta está pensada para simplificar el proceso de instalación
 de **HFW + HEN** o pruebas de actualización en consolas PS3.
 
+![Descripci贸n de la imagen](https://github.com/Azzlaer/PS3_ProxyUP/blob/main/01.png)
+
 ------------------------------------------------------------------------
 
 ## 🎮 Características
